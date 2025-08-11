@@ -17,3 +17,9 @@
 
 **Python: w3schools**
   - Data types
+
+### Day 03: Mon 11 Aug 2025
+
+**Competitive Programming:**
+  - Solved 4 problems from codeforces and CSES
+
