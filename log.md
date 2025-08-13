@@ -23,3 +23,13 @@
 **Competitive Programming:**
   - Solved 4 problems from codeforces and CSES
 
+### Day 04: Tue 12 Aug 2025
+
+**Competitive Programming:**
+  - Solved 1 problem from CSES on Sorting and Searching
+
+### Day 05: Wed 13 Aug 2025
+
+**Competitive Programming:**
+  - Solved 2 problems from CSES on Sorting and Searching
+
