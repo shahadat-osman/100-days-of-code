@@ -33,3 +33,9 @@
 **Competitive Programming:**
   - Solved 2 problems from CSES on Sorting and Searching
 
+### Day 06: Thu 14 Aug 2025
+
+**Competitive Programming:**
+  - Solved 1 problems from CSES on Sorting and Searching
+  - Recaped STL(Pair, Tuple)
+
